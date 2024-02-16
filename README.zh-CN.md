@@ -136,7 +136,7 @@ pnpm i # 如果你没装过 pnpm, 可以先运行: npm install -g pnpm
 紧接着, 享受吧 :)
 
 ## 使用
-
+https://115cn.netlify.app/
 ### 开发
 
 只需要执行以下命令就可以在 <http://localhost:3000> 中看到
