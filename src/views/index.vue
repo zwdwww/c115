@@ -22,7 +22,7 @@ watch(checked, (val) => {
   <div class="container">
     <div class="logo" />
 
-    <VanCellGroup title="一个集成最新技术栈、完整干净的移动端模板" inset>
+    <VanCellGroup title="长沙一个集成最新技术栈、完整干净的移动端模板" inset>
       <VanCell center title="🌗 暗黑模式">
         <template #right-icon>
           <VanSwitch v-model="checked" size="23px" />
